@@ -1,0 +1,38 @@
+<br>
+<b>PLEASE READ CAREFULLY BEFORE USING THIS PLUGIN. THIS PLUGIN IS FREE TO USE. BY USING THIS PLUGIN YOU AGREE YOUR USING THIS PLUGIN AT YOUR OWN RISK.</b>
+<br>
+
+<p>Price Quantity Plugin is provided for free by Advidco. Though we do not charge a fee for the use of our plugin we do appreciate all donations. Donations helps us to build more plugins that we offer for free to help improve your Wordpress blog. Price Quantity plugin was developed primararly for use with Shopperpress. However this plugin will work with all Wordpress themes.</p>
+
+<br>
+Instructions:
+<br>
+<br>
+<li>1. Choose your desired Styles settings.
+<br>
+<li>2. Cut and paste sample short code into your posts or pages anywhere you wish for Price Quantity plugin to appear.
+<br>
+<li>3. Edit short code after you have pasted into posts or pages. example: [showQtyPriceTable value="0-25:$45,26-100:$30,100-200:$50" ] You might change to [showQtyPriceTable value="0-100:$65,26-100:$30,100-200:$50" ] Basically whatever your price quantity needs are you will set in the short code provided.
+You may add as many values as you like, however please bear in mind the more you add the greater the width of the table on the page.</li>
+<br>
+<li>If you find this plugin useful why not share it with others and like it or Tweet it below! That's it! Enjoy!</li>
+<br>
+
+Powered By Advidco.com Have a question or need help support(@)advidco(dot)com
+<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="AF6J6HRCZVLR8">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<br>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e76d43d36102257"></script>
+<!-- AddThis Button END -->
